@@ -17,7 +17,7 @@ local UI = Atlas.new({
     CheckKey = function(inputtedKey)
         return inputtedKey==testStrTrimmed
     end;
-    Discord = "https://discord.gg/MqsgXZBgqE";
+    Discord = "https://discord.gg/xdWMqwhuv2";
 })
 
 UI:Destroy()
